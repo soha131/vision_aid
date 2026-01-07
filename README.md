@@ -264,7 +264,7 @@ Interactive tutorial with:
 ## 🪄 App Preview
 
 
-![App Demo](assets/screenshots/demo.gif)
+![App Demo](assets/demo.gif)
 
 ---
 
